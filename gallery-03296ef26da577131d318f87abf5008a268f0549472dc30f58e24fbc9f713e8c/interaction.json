@@ -1,0 +1,61 @@
+{
+  "schema": "atlantis-gallery-interactions/1",
+  "joints": [
+    {
+      "id": "Door_L",
+      "node": "Door_L",
+      "label": "Left scissor door",
+      "kind": "rotation",
+      "axis": [
+        0.17091793530347169,
+        -0.6059817706213997,
+        0.7768997059248713
+      ],
+      "limits": [
+        0,
+        1.19
+      ],
+      "speed": 1.45
+    },
+    {
+      "id": "Door_R",
+      "node": "Door_R",
+      "label": "Right scissor door",
+      "kind": "rotation",
+      "axis": [
+        -0.17091793530347169,
+        0.6059817706213997,
+        0.7768997059248713
+      ],
+      "limits": [
+        0,
+        1.19
+      ],
+      "speed": 1.45
+    }
+  ],
+  "buttons": [
+    {
+      "id": "Door_L_toggle",
+      "label": "Toggle left scissor door",
+      "node": "Door_L",
+      "joint": "Door_L",
+      "action": "toggle",
+      "values": [
+        0,
+        1.19
+      ]
+    },
+    {
+      "id": "Door_R_toggle",
+      "label": "Toggle right scissor door",
+      "node": "Door_R",
+      "joint": "Door_R",
+      "action": "toggle",
+      "values": [
+        0,
+        1.19
+      ]
+    }
+  ]
+}

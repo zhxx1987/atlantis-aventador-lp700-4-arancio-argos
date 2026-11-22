@@ -1,0 +1,48 @@
+{
+  "schema": "atlantis-gallery-publication/1",
+  "approval_digest": "a9667991fb836e24b4bf7354ab36c506985cd54603c5a25f385870bc0636c415",
+  "files": [
+    {
+      "file": "interaction.json",
+      "bytes": 1174,
+      "sha256": "c2f329c8262af4ac1ee147d5a46ba8c7aff2225ef79f42b34af92cb9c1270b4e",
+      "destination": "creator-pages"
+    },
+    {
+      "file": "preview/Aventador.glb",
+      "bytes": 55583728,
+      "sha256": "e44921cb87fd9e31a76754f33c5333c207707e0a4437a04c0777d6abab78e52e",
+      "destination": "creator-pages"
+    },
+    {
+      "file": "preview/drive/controller.js",
+      "bytes": 6472,
+      "sha256": "384ed57e1781f01c6a6280cc0db184eb18ceb4d9712166b29e2dd400effb17d9",
+      "destination": "creator-pages"
+    },
+    {
+      "file": "preview/drive/motion.py",
+      "bytes": 8773,
+      "sha256": "960bd6285fd8a00e29130ed73b7436658a07198d2c896928e20a7d09d1d61457",
+      "destination": "creator-pages"
+    },
+    {
+      "file": "preview/drive/rig.json",
+      "bytes": 199,
+      "sha256": "520fbbc354f3c98a4881aa8681acdb6cf317b78e0ad35fc28ff2c69b333e8eed",
+      "destination": "creator-pages"
+    },
+    {
+      "file": "preview/drive/Runway.glb",
+      "bytes": 4033380,
+      "sha256": "ce26171a0021562ad7fa08e33fd4debfe61741810c18158b4dd3172d630732d2",
+      "destination": "creator-pages"
+    },
+    {
+      "file": "preview/drive/sim_adapter.py",
+      "bytes": 1428,
+      "sha256": "b5223cdc5bbb1e2f71d3631a9e4db8cff81ae8ce167a89c67abee27086c32b0a",
+      "destination": "creator-pages"
+    }
+  ]
+}
